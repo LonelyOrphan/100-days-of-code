@@ -31,3 +31,21 @@ I can interface with the API using either node.js or PHP. I need to have a think
 I copy and pasted the curl command provided by Discogs into cmd.exe and was surprised to be returned a lot of text, all relating to NGGYU by Rick Astley. Very nice touch. Third time I've been rickrolled in the past three days. Anyway, I'll leave it there for now, signing off at 13:30. Ciao!
 
 **Sign-off 13:30pm**
+
+### Day 1: 15th September 2020
+
+Well I unintentionally had three days off. I did take the laptop with me but it would have seemed rude to start working when meeting someone new, and also I need to send the laptop back now so I'll need to buy one if I want to work remotely. And while I'm living in Telford I will want to travel fairly frequently. So taking days off is going to be inevitable until I get the laptop.
+
+So I need to figure out the API and it seems I'll be using Node.js.
+
+**16:58**
+
+Working out this API is going to be the hardest part of making the app, and I need to get comfortable with the fact that it is going to take longer than I expect or want. I will be using disconnect, which is a Node.js client library that connects with the Discogs.com API v2.0.
+
+The first step is to initialise using var Discogs = require('disconnect').Client;
+
+Require is used to include a module, in this case the disconnect module which is used to access the Discogs API. I need to spend more time on getting my head around Node.js. I understand a fraction more after today but am left with far more questions than I have had answers. It's frustrating and the main problem is not actually understanding which questions to ask. For next time, I should start with:
+
+What basic information do I already need to start understanding Node.js?
+
+**Sign off 18:18**
