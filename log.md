@@ -63,3 +63,11 @@ There are projects within the course on Freecodecamp so I should work through th
 **17:45**
 
 Feeling quite frustrated going back over the same things. Will leave it there for now.
+
+**18:20**
+
+Looked further at disconnect. Understood a tiny fraction more. To include a module, use require() with the name of the module, e.g. var name = require('name');
+
+Question for tomorrow: Can you find and complete a small project within Freecodecamp?
+
+**Sign-off 18:26**
