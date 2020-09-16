@@ -52,7 +52,7 @@ What basic information do I already need to start understanding Node.js?
 **Sign off 18:18**
 
 
-### Day 1: 15th September 2020 - 17:19
+### Day 2: 16th September 2020 - 17:19
 
 So I think I need a better handle on Javascript in order to understand Node. I'm wondering whether it's worth me undertaking a small Javascript project to strengthen my understanding before I pick up Node. I'm still tempted by PHP as well, because there are a lot of jobs that ask for PHP including Wordpress Dev jobs.
 
