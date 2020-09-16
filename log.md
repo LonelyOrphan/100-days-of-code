@@ -32,6 +32,7 @@ I copy and pasted the curl command provided by Discogs into cmd.exe and was surp
 
 **Sign-off 13:30pm**
 
+
 ### Day 1: 15th September 2020
 
 Well I unintentionally had three days off. I did take the laptop with me but it would have seemed rude to start working when meeting someone new, and also I need to send the laptop back now so I'll need to buy one if I want to work remotely. And while I'm living in Telford I will want to travel fairly frequently. So taking days off is going to be inevitable until I get the laptop.
@@ -49,3 +50,16 @@ Require is used to include a module, in this case the disconnect module which is
 What basic information do I already need to start understanding Node.js?
 
 **Sign off 18:18**
+
+
+### Day 1: 15th September 2020 - 17:19
+
+So I think I need a better handle on Javascript in order to understand Node. I'm wondering whether it's worth me undertaking a small Javascript project to strengthen my understanding before I pick up Node. I'm still tempted by PHP as well, because there are a lot of jobs that ask for PHP including Wordpress Dev jobs.
+
+I've decided I should finish the Javascript course on Freecodecamp and see whether there are any projects I can pick up there. I'm wondering if I should register another domain as well to use as a portfolio (www.natashasunita.co.uk).
+
+There are projects within the course on Freecodecamp so I should work through this for now. I've started at 26% so the aim is to steadily work through it. Perhaps I will be able to work a little on my project at the same time as I begin to understand more.
+
+**17:45**
+
+Feeling quite frustrated going back over the same things. Will leave it there for now.
