@@ -71,3 +71,16 @@ Looked further at disconnect. Understood a tiny fraction more. To include a modu
 Question for tomorrow: Can you find and complete a small project within Freecodecamp?
 
 **Sign-off 18:26**
+
+
+
+### Day 3: 22nd September 2020 - 21:24
+
+Started looking at FreeCodeCamp but really not feeling it, so had another look at disconnect instead.
+
+Copy and pasted first two supplied pieces of code for disconnect into a new file.
+
+The next part is to set your own custom User-Agent. I'll need to read through what a User-Agent is to understand further. It just occurred to me that I can't even test that I'm getting data without doing this part. One for tomrrow.
+
+**Sign-off 21:44*
+
