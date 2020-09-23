@@ -84,3 +84,18 @@ The next part is to set your own custom User-Agent. I'll need to read through wh
 
 **Sign-off 21:44*
 
+
+### Day 4: 23rd September 2020 - 17:07    ~Restless/preoccupied
+
+Started reading You Don't Know Javascript Yet.
+
+Reached Chapter 1 - The Web Rules Everything About (JS) https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#the-web-rules-everything-about-js
+
+**Sign-off 23:22**
+
+
+
+
+
+
+
