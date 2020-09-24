@@ -93,6 +93,10 @@ Reached Chapter 1 - The Web Rules Everything About (JS) https://github.com/getif
 
 **Sign-off 23:22**
 
+### Day 4.5
+
+Read "The Web Rules Everything About (JS)" chapter. Start from "Not All (Web) JS..."
+
 
 
 
