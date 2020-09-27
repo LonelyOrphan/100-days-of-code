@@ -97,7 +97,18 @@ Reached Chapter 1 - The Web Rules Everything About (JS) https://github.com/getif
 
 Read "The Web Rules Everything About (JS)" chapter. Start from "Not All (Web) JS..."
 
-https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#many-faces
+
+What I've learned - Not all functions are included in the Javascript specification, such as alert(), fetch(), console.log() etc. So these are more like "guests", that are still Javascript but aren't part of the specification. To check if something is "official" Javascript, check the specification, as it may be something that is included in the browser.
+
+There are various paradigms in programming, and some languages must stick to their paradigm. Javascript is multi-paradigm and has a lot of flexibility. It might be worth reading more about programming paradigms:
+
+https://www.freecodecamp.org/news/what-exactly-is-a-programming-paradigm/
+
+Javascript is backawards compatible. This means that once something is accepted as valid JS, there will not be a future change to the language that causes that code to become invalid JS. Code written in 1995—however primitive or limited it may have been!—should still work today.
+
+It is not forwards compatible. Being forwards-compatible means that including a new addition to the language in a program would not cause that program to break if it were run in an older JS engine.
+
+https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#jumping-the-gaps
 
 
 
