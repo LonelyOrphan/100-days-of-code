@@ -97,6 +97,8 @@ Reached Chapter 1 - The Web Rules Everything About (JS) https://github.com/getif
 
 Read "The Web Rules Everything About (JS)" chapter. Start from "Not All (Web) JS..."
 
+https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#many-faces
+
 
 
 
