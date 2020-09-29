@@ -117,6 +117,10 @@ Shimming, also known as polyfilling should be used alongside transpiling when wo
 
 https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#whats-in-an-interpretation
 
+Arrays:
+
+Going back to my Album Generator, when a genre is selected from the drop-down, a list of possible album IDs is obtained and stored in an array. Then, a number can be selected from that array and returned using an appropriate method.
+
 
 
 
