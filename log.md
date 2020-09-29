@@ -111,7 +111,11 @@ It is not forwards compatible. Being forwards-compatible means that including a 
 https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#jumping-the-gaps
 
 
+I'm in the process of lowering the saddle on my guitar. I've been watching videos and reading how to do this today, and a frequent cautionary note is not to file the saddle too much otherwise you'd need to replace or shim it. I didn't look up the meaning for this word "shim", but presumed it meant adding material to extend the saddle somehow. Now in YDKJY, I come across the term "shim" in the context of adding an API method to your code for the purposes of being forward-compatible (if the engine is older and doesn't include a more recent API method). Shims can be found in ES-Shim - https://github.com/es-shims.
 
+Shimming, also known as polyfilling should be used alongside transpiling when working with Javascript. Transpiling means to use a tool such as Babel https://babeljs.io/ to convert code to a previous spec so that it can be used in older JS engines.
+
+https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#whats-in-an-interpretation
 
 
 
