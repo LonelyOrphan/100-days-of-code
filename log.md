@@ -121,6 +121,10 @@ Arrays:
 
 Going back to my Album Generator, when a genre is selected from the drop-down, a list of possible album IDs is obtained and stored in an array. Then, a number can be selected from that array and returned using an appropriate method.
 
+To-Do: Look up explanations for Interpreted (scripted) and compiled language in prep for next Javascript chapter.
+
+
+
 
 
 
