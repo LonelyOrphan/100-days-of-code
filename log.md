@@ -123,6 +123,29 @@ Going back to my Album Generator, when a genre is selected from the drop-down, a
 
 To-Do: Look up explanations for Interpreted (scripted) and compiled language in prep for next Javascript chapter.
 
+Freecodecamp says Javascript is an interpreted language. YDKJY says it's compiled (in spirit if not in practice).
+
+// only whitespace and comments are allowed
+// before the use-strict pragma
+"use strict";
+// the rest of the file runs in strict mode
+
+The above will enable strict mode. Any character entered before the pragma that isn't a comment or whitespace will result in strict mode not being executed. No error will appear so be careful with this.
+
+Strict mode can alternatively be turned on per-function scope, with exactly the same rules about its surroundings:
+
+function someOperations() {
+    // whitespace and comments are fine here
+    "use strict";
+
+    // all this code will run in strict mode
+}
+
+If a file has strict mode turned on, function level pragmas won't work. You have to choose one or the other.
+
+
+Just a quick note. Despite being a total slob
+
 
 
 
