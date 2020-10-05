@@ -144,7 +144,7 @@ function someOperations() {
 If a file has strict mode turned on, function level pragmas won't work. You have to choose one or the other.
 
 
-Just a quick note. Despite being a total slob
+Just a quick note. Despite being a total slob today, I got a bit of everything done.
 
 
 
