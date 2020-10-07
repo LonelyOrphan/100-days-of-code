@@ -210,6 +210,13 @@ var foo = function(a, b, c) {
     
 foo("Hello", "It's me", "How are you?");    // Arguments
 ```
+
+A note about Scope:
+
+Variables that are declared without using the ```var``` keyword are automatically created in the Global Scope.
+
+Global Scope: Visible everywhere
+Local Scope: Visible only within the function
     
 
 
