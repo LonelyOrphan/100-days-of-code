@@ -178,10 +178,10 @@ When putting <script></script> tags on a webpage, put it down the bottom of the 
 Remember to call your function in order to get it to run. Example:
 
 ```js
-function go(){
-alert("Hi!);
-alert("Hi again!);
-};
+    function go(){
+        alert("Hi!);
+        alert("Hi again!);
+    };
 
 go();
 go();   //function is called twice
