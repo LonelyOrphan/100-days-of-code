@@ -208,7 +208,8 @@ var foo = function(a, b, c) {
     alert(c);
     };                                      // Parameters
     
-foo("Hello", "It's me", "How are you?");    //Arguments
+foo("Hello", "It's me", "How are you?");    // Arguments
+```
     
 
 
