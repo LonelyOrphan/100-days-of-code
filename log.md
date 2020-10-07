@@ -153,6 +153,7 @@ Function Declaration is different from a Function Expression.
 
 Function Declaration - appears as a statement by itself, NOT as an expression in another statement. The association between the identifier awesomeFunction and the function value happens during the compile phase of the code, before that code is executed.
 
+    ```js
     function awesomeFunction(coolThings) {
         // ..
         return amazingStuff;
