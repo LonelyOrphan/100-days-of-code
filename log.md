@@ -197,7 +197,18 @@ function greeting(myName) {
 greeting("Natasha");    // Hello Natasha
 ```
 
-Use the ```return``` keyword to return a value. You can only return a single value, so if you have more values to return, wrap them up in an ```Object``` or ```Array```.
+Use the ```return``` keyword to return a value. You can only return a single value, so if you have more values to return, wrap them up in an *Object* or *Array*.
+
+JS parameters are the aliases for the values passed into the function. Arguments are the actual values themselves. Below, a, b and c are the parameters, while Hello, It's Me, How are you? are the arguments.
+
+```js
+var foo = function(a, b, c) {
+    alert(a);
+    alert(b);
+    alert(c);
+    };                                      // Parameters
+    
+foo("Hello", "It's me", "How are you?");    //Arguments
     
 
 
