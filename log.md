@@ -187,6 +187,19 @@ go();
 go();   //function is called twice
 ```
 
+Function parameters work like so:
+
+```js
+function greeting(myName) {
+    console.log(`Hello ${ myName }`);
+    }
+    
+greeting("Natasha");    // Hello Natasha
+```
+
+Use the ```return``` keyword to return a value. You can only return a single value, so if you have more values to return, wrap them up in an ```Object``` or ```Array```.
+    
+
 
 
 
