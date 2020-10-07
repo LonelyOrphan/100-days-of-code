@@ -143,8 +143,43 @@ function someOperations() {
 
 If a file has strict mode turned on, function level pragmas won't work. You have to choose one or the other.
 
-
 Just a quick note. Despite being a total slob today, I got a bit of everything done.
+
+
+Functions:
+
+Function Declaration is different from a Function Expression.
+
+Function Declaration - appears as a statement by itself, NOT as an expression in another statement. The association between the identifier awesomeFunction and the function value happens during the compile phase of the code, before that code is executed.
+
+function awesomeFunction(coolThings) {
+    // ..
+    return amazingStuff;
+}
+
+Function Expression - This function is an expression that is assigned to the variable awesomeFunction. Different from the function declaration form, a function expression is not associated with its identifier until that statement during runtime.
+
+// let awesomeFunction = ..
+// const awesomeFunction = ..
+var awesomeFunction = function(coolThings) {
+    // ..
+    return amazingStuff;
+};
+
+It's extremely important to note that in JS, functions are values that can be assigned (as shown in this snippet) and passed around. In fact, JS functions are a special type of the object value type.
+
+When putting <script></script> tags on a webpage, put it down the bottom of the HTML  as it will load the content first which will make the page load faster for the user.
+    
+Remember to call your function in order to get it to run. Example:
+
+function go(){
+    alert("Hi!);
+    alert("Hi again!);
+    };
+    
+go();
+go();   //function is called twice
+
 
 
 
