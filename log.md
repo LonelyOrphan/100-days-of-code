@@ -33,6 +33,7 @@ I copy and pasted the curl command provided by Discogs into cmd.exe and was surp
 **Sign-off 13:30pm**
 
 
+
 ### Day 1: 15th September 2020
 
 Well I unintentionally had three days off. I did take the laptop with me but it would have seemed rude to start working when meeting someone new, and also I need to send the laptop back now so I'll need to buy one if I want to work remotely. And while I'm living in Telford I will want to travel fairly frequently. So taking days off is going to be inevitable until I get the laptop.
@@ -50,6 +51,7 @@ Require is used to include a module, in this case the disconnect module which is
 What basic information do I already need to start understanding Node.js?
 
 **Sign off 18:18**
+
 
 
 ### Day 2: 16th September 2020 - 17:19
@@ -85,6 +87,7 @@ The next part is to set your own custom User-Agent. I'll need to read through wh
 **Sign-off 21:44*
 
 
+
 ### Day 4: 23rd September 2020 - 17:07    ~Restless/preoccupied
 
 Started reading You Don't Know Javascript Yet.
@@ -92,6 +95,8 @@ Started reading You Don't Know Javascript Yet.
 Reached Chapter 1 - The Web Rules Everything About (JS) https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#the-web-rules-everything-about-js
 
 **Sign-off 23:22**
+
+
 
 ### Day 4.5
 
@@ -144,6 +149,8 @@ function someOperations() {
 If a file has strict mode turned on, function level pragmas won't work. You have to choose one or the other.
 
 Just a quick note. Despite being a total slob today, I got a bit of everything done.
+
+
 
 ### 7th October 2020 - Day 5
 
@@ -217,6 +224,7 @@ Variables that are declared without using the ```var``` keyword are automaticall
 
 Global Scope: Visible everywhere
 Local Scope: Visible only within the function
+    
     
 
 ### 8th October 2020 - Day 6
