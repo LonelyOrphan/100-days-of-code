@@ -219,7 +219,13 @@ Global Scope: Visible everywhere
 Local Scope: Visible only within the function
     
 
+### 8th October 2020 - Day 6
 
+The ```===``` comparison does not necessarily mean exactly equal. It doesn't work witn Nan or -0. It's recommended to use ```Object.is()``` which could be colloquially known as the four equals ```====``` operator - really really strict.
+
+```===``` Also does not work with arrays due to some stuff about object values being held by reference. Further reading is needed to understand this and it's covered in Appendix A.
+
+Went back over functions. Reached https://github.com/LonelyOrphan/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md#coercive-comparisons
 
 
 
