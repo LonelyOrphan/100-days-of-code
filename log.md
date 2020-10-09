@@ -259,7 +259,7 @@ For Javascript to compare two datatypes, it must convert one type to another. Th
 
 The inequality operator `!=` also performs *coercion*.
 
-`js
+```js
 1 != 2      // true
 1 != "1"    // false
 `
