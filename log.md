@@ -249,6 +249,13 @@ function isThisTrue (value) {
     return "This is false";
    }
 ```
+
+Continuing on from yesterday's comparison operators:
+
+```==```    equal value
+```===```   equal value and equal type
+
+For Javascript to compare two datatypes, it must convert one type to another. This is called *Type Coercion*. This way, 3 can `===` "3", but 3 cannot `===` "3".
     
 
 
