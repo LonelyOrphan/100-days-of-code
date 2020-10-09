@@ -242,12 +242,25 @@ Went back over functions. Reached https://github.com/LonelyOrphan/You-Dont-Know-
 If statements will evaluate whether a condition inside a function is true. If so, it will do something. If not, it can do something else. Example:
 
 ```js
-function isThisTrue (value) {
+function isThisTrue(value) {
     if (value) {
         return "This is true";
    }
     return "This is false";
    }
+```
+You can have multiple ifs like so:
+
+```js
+function greaterThan(value) {
+    if (value > 100) {
+        return "Greater than 100";
+    }
+    if (value > 10) {
+        return "Greater than 10";
+    }
+    return "It's small.";
+    }
 ```
 
 Continuing on from yesterday's comparison operators:
