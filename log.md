@@ -237,4 +237,20 @@ Went back over functions. Reached https://github.com/LonelyOrphan/You-Dont-Know-
 
 
 
+### 9th October 2020 - Day 7
+
+If statements will evaluate whether a condition inside a function is true. If so, it will do something. If not, it can do something else. Example:
+
+```js
+function isThisTrue (value) {
+    if (value) {
+        return "This is true";
+   }
+    return "This is false";
+   }
+```
+    
+
+
+
 
