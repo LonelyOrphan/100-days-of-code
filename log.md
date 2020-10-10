@@ -281,7 +281,8 @@ The inequality operator `!=` also performs *coercion*. As above, the strict ineq
 ```
     
     
-    
+
+
 ### 10th October 2020 - Day 8
 
 Finished off comparison operators in FCC and read about taking care with coercion in YDKJY. Reached "How we Organise in JS" and am stuck with these concepts. In fact I haven't learned this at all previously. I need to go over *Classes* (and perhaps Object Oriented Programming in general) and the `this` keyword https://www.w3schools.com/js/js_this.asp.
