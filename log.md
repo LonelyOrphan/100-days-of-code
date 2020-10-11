@@ -309,7 +309,9 @@ The example above kept throwing an error that there was a missing ). However, it
 Classes are used as blueprints to create other objects. 
 
 
-### Virtual Dice - Project
+### Virtual Dice - Project Completed
+
+Classes allow object-oriented programming by creating a class which you can then create objects from. The `extends` keyword then allows you to make child classes from a parents. `super` allows you to inherit a method from the parent class for use in a child class. Both inherited and overwridden methods can exist with the same name; this is called *Polymorphism*.
 
 
 
