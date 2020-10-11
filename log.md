@@ -289,4 +289,21 @@ Finished off comparison operators in FCC and read about taking care with coercio
 
 
 
+### 11th October 2020 - Day 9
+
+Going back to comparisons with objects, you may not see the results you expect due to objects being held in reference. This means that the values are stored in memory somewhere on the PC, then a reference to that location is stored in the object variable. So if you strictly compare to arrays that contain the same values, you will receive a false result due to the fact that it's their locations that are being compared, not their actual values.
+
+**Dynamic Typing** means that variable values can be changed later in the code. For example:
+
+```JS
+let name = "Natasha";
+console.log(typeof name);       //string
+let name = 14;
+console.log(typeOf name);       //number
+```
+
+The example above kept throwing an error that there was a missing ). However, it turns out that `typeof` **does not use camelCase**. This is because typeof is an operator (as well as instanceof). Reserved words do not follow camelCase.
+
+
+
 
