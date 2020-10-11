@@ -304,6 +304,13 @@ console.log(typeOf name);       //number
 
 The example above kept throwing an error that there was a missing ). However, it turns out that `typeof` **does not use camelCase**. This is because typeof is an operator (as well as instanceof). Reserved words do not follow camelCase.
 
+#### Classes
+
+Classes are used as blueprints to create other objects. 
+
+
+### Virtual Dice - Project
+
 
 
 
