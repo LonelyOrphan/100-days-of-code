@@ -316,3 +316,11 @@ Classes allow object-oriented programming by creating a class which you can then
 
 
 
+### 12th October 2020 - Day 10
+
+Next project - Stopwatch. Use the date() object to get the hours, minutes, seconds and milliseconds. It will have a Start, Stop and Reset button.
+
+Start = Display hours, minutes, seconds and milliseconds, updating in realtime upon clicking
+Stop = Stop the time from advancing upon clicking
+Reset = Display 00:00:00 and advance again.
+
