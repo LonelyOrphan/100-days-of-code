@@ -324,3 +324,9 @@ Start = Display hours, minutes, seconds and milliseconds, updating in realtime u
 Stop = Stop the time from advancing upon clicking
 Reset = Display 00:00:00 and advance again.
 
+
+
+
+### 14th October 2020 - Day 11
+
+Stopwatch - Create a new date, then use getTime() function. Then update every millisecond with current time -minus original time.
