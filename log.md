@@ -330,3 +330,14 @@ Reset = Display 00:00:00 and advance again.
 ### 14th October 2020 - Day 11
 
 Stopwatch - Create a new date, then use getTime() function. Then update every millisecond with current time -minus original time.
+
+```js
+var purpose = function seek(desire) {
+        if (desire) { 
+            seek();
+          }
+        else {
+            seek();
+          }
+        }
+```
