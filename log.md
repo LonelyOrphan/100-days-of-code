@@ -341,3 +341,11 @@ var purpose = function seek(desire) {
           }
         }
 ```
+
+### 19th October 2020 - Day 12
+
+Completed 4 hour C++ training vid. Stuff I rememeber - case/switch is the same. 
+
+### 22nd October 2020 - Day 13
+
+Ran through switch/case statements. Also a reminder that in a function, a statement using comparisons will evaluate to either true or false. This allows you to shorten if/else statements that return a boolean value.
