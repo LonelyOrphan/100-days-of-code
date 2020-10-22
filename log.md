@@ -344,7 +344,7 @@ var purpose = function seek(desire) {
 
 ### 19th October 2020 - Day 12
 
-Completed 4 hour C++ training vid. Stuff I rememeber - case/switch is the same. 
+Completed 4 hour C++ training vid. Stuff I rememeber - case/switch is the same. Mainly, the course helped to concrete better understanding of OOP. Javascript seems similar here.
 
 ### 22nd October 2020 - Day 13
 
