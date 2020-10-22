@@ -344,8 +344,15 @@ var purpose = function seek(desire) {
 
 ### 19th October 2020 - Day 12
 
-Completed 4 hour C++ training vid. Stuff I rememeber - case/switch is the same. Mainly, the course helped to concrete better understanding of OOP. Javascript seems similar here.
+Completed 4 hour C++ training vid. Stuff I remember - case/switch is the same. Mainly, the course helped to concrete better understanding of OOP. Javascript seems similar here.
 
 ### 22nd October 2020 - Day 13
 
-Ran through switch/case statements. Also a reminder that in a function, a statement using comparisons will evaluate to either true or false. This allows you to shorten if/else statements that return a boolean value.
+Ran through switch/case statements in FCC. Also a reminder that in a function, a statement using comparisons will evaluate to either true or false. This allows you to shorten if/else statements that return a boolean value.
+
+Functions in Javascript are essentially Objects. Like Objects, they can be assigned to variables, passed to other functions and returned from functions.
+
+**Idea for program - Take entire text from log and arrange in reverse so latest entries are at the top.**
+
+
+
