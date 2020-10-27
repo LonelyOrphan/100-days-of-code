@@ -360,3 +360,8 @@ Pushed the code I'd worked on on laptop to Github using command line. Remote rep
 
 Worked on stopwatch. I think laying it out as an object should be the way forward. Others seem to use the setTimeout() method but I can only understand it using the setInterval() method at the moment. This one is the most straightforward one so far: https://jsfiddle.net/Daniel_Hug/pvk6p/
 
+
+### 22nd October 2020 - Day 14
+
+Worked on the stopwatch all fucking day.
+
