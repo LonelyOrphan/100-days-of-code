@@ -366,9 +366,19 @@ Worked on stopwatch. I think laying it out as an object should be the way forwar
 Worked on the stopwatch all fucking day.
 
 
-### 22nd October 2020 - Day 16
+### 28th October 2020 - Day 16
 
 Using `this` keyword in an object method and then calling that function outside of the object doesn't seem to work. If I change `this` to the name of the object then it works.
 
 If you assign a function to a variable, adding parentheses to said function will invoke the function. If you just want to assign it to the function without invocation, miss out hte parentheses.
+
+### 29th October 2020 - Day 17
+
+Current Stopwatch bugs:
+
+- clearInterval() not working
+- Clicking Start more than once speeds up the clock
+- 0 isn't added to numbers below 9 for cs
+
+
 
