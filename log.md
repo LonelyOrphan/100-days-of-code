@@ -380,5 +380,8 @@ Current Stopwatch bugs:
 - Clicking Start more than once speeds up the clock
 - 0 isn't added to numbers below 9 for cs
 
+### 3rd November 2020 - Day 18
+
+Fixed 
 
 
