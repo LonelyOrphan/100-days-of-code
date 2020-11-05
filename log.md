@@ -382,6 +382,10 @@ Current Stopwatch bugs:
 
 ### 3rd November 2020 - Day 18
 
-Fixed 
+Added 0 to CS.
 
+
+### 5th November 2020 - Day 19
+
+Created Trello for Stopwatch. Split out functions for increment and displaying 0s.
 
