@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 20 - 6th November 2020
+
+Writing long function with a lot of `if` statements to get the display correct.
+
 
 ### 5th November 2020 - Day 19
 
