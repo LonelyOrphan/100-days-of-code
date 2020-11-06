@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 20 - 6th November 2020
+### Day 20 - 6th November 2020 ~ Headachey, ennui
 
 Writing long function with a lot of `if` statements to get the display correct.
 
