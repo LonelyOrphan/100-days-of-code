@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 21 - 10th November 2020 ~ Mildly determined, somewhat easily distracted
+
+Zeros are being added to seconds every time the display function is being called via setInterval().
+
 ### Day 20 - 6th November 2020 ~ Headachey, ennui
 
 Writing long function with a lot of `if` statements to get the display correct.
