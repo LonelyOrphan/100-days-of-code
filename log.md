@@ -4,6 +4,25 @@
 
 Zeros are being added to seconds every time the display function is being called via setInterval().
 
+Code below to add 0 before number.
+
+```js
+function currentTime() {
+  hour = updateTime(hour);
+  min = updateTime(min);
+  sec = updateTime(sec);
+}
+
+function updateTime(k) {
+  if (k < 10) {
+    return "0" + k;
+  }
+  else {
+    return k;
+  }
+}
+```
+
 ### Day 20 - 6th November 2020 ~ Headachey, ennui
 
 Writing long function with a lot of `if` statements to get the display correct.
