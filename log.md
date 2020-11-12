@@ -1,5 +1,95 @@
 # 100 Days Of Code - Log
 
+### Day 22 - 12th November 2020 ~ Determined and motivated!
+
+Wrote card counting function on FCC. Here is my solution:
+
+```js
+var count = 0;
+
+function cc(card) {
+  // Only change code below this line
+var lowCards = [2, 3, 4, 5, 6];
+var highCards = [10, "J", "Q", "K", "A"];
+var low = lowCards.includes(card);
+var high = highCards.includes(card);
+var hold = " Hold";
+var bet = " Bet";
+var act;
+if (low) {
+  count++;
+};
+if (high) {
+  count--;
+};
+if (count > 0) {
+  act = bet;
+};
+if (count <= 0) {
+  act = hold;
+};
+  return count + act;
+  // Only change code above this line
+}
+```
+
+Here are two example solutions:
+
+1)
+```js
+let count = 0;
+
+function cc(card) {
+  // Only change code below this line
+  switch (card) {
+    case 2:
+    case 3:
+    case 4:
+    case 5:
+    case 6:
+      count++;
+      break;
+    case 10:
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
+      count--;
+      break;
+  }
+  if (count > 0) {
+    return count + " Bet";
+  } else {
+    return count + " Hold";
+  }
+  // Only change code above this line
+}
+```
+2)
+```js
+function cc(card) {
+  // Only change code below this line
+  var regex = /[JQKA]/;
+  if (card > 1 && card < 7) {
+    count++;
+  } else if (card === 10 || regex.test(card)) {
+    count--;
+  }
+
+  if (count > 0) return count + " Bet";
+  return count + " Hold";
+
+  // Only change code above this line
+}
+```
+Code Explanation
+
+· The function first evaluates if the condition card is a value greater than 1 and lower than 7, in which case it increments count by one.
+· Then if the card is 10 or higher it decrements count by one.
+· The variable regex is a regular expression 546 representing values (letters) for the higher cards.
+· The else statement checks those values with the || (logical OR) operator; first for 10 and then for any string that matches the regular expression using String.match() 181.
+
+
 ### Day 21 - 10th November 2020 ~ Mildly determined, somewhat easily distracted
 
 Zeros are being added to seconds every time the display function is being called via setInterval().
