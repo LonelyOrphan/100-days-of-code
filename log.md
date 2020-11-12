@@ -2,6 +2,8 @@
 
 ### Day 22 - 12th November 2020 ~ Determined and motivated!
 
+Today I learned that you can put `return` statements into an if/else statement, so as to have multiple return options. I learned that switch statements are useful when there are many options to choose from. See code below for further info.
+
 Wrote card counting function on FCC. Here is my solution:
 
 ```js
