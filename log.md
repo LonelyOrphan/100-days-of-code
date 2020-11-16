@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 23 - 16th November 2020 ~ Relaxed
+
+Though there's four days missing here, I have been completing stuff on FCC. Since I didn't write here I'll just increment my days by one though.
+
+Today I've learned the difference between the three loops - while, for and do...while.
+
+While will execute the code while conditions are met.
+
+For allows you to enter three statements. The first sets up the loop, the second is the condition, the last is an action. This will usually look like so:
+
+```js
+for (i = 0; i < 5; i++)
+```
+
+Do...while will always execute the code the first time. Then the condition will be checked and the loop will run while it is true.
+
 ### Day 22 - 12th November 2020 ~ Determined and motivated!
 
 Today I learned that you can put `return` statements into an if/else statement, so as to have multiple return options. I learned that switch statements are useful when there are many options to choose from. See code below for further info.
