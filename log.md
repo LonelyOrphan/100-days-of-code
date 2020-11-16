@@ -8,10 +8,12 @@ Today I've learned the difference between the three loops - while, for and do...
 
 While will execute the code while conditions are met.
 
-For allows you to enter three statements. The first sets up the loop, the second is the condition, the last is an action. This will usually look like so:
+For allows you to enter three statements. The first is executed one time first, the second is the condition, the last is an action to be completed after the code block has beeen executed. This will usually look like so:
 
 ```js
-for (i = 0; i < 5; i++)
+for (i = 0; i < 5; i++) {
+  code here
+  };
 ```
 
 Do...while will always execute the code the first time. Then the condition will be checked and the loop will run while it is true.
