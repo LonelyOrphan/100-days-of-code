@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24 - 19th November 2020 ~ Focused, Benign
+
+Added in a hack yesterday to stopwatch to stop the 0's appearing. Found out today that the stopwatch is too slow. This post https://www.experts-exchange.com/questions/27034571/Javscript-stopwatch-slow.html suggests that getting the document with the timed function calls will slow it down, and advises to just call it once upon page load. 
+
+I did try doing this upon button press but it doesn't work *unless* it's called repeatedly.
+
+He also uses a setTimeout() instead of setInterval(), and calls it repeatedly via recursion.
+
+
+
 ### Day 23 - 16th November 2020 ~ Relaxed
 
 Though there's four days missing here, I have been completing stuff on FCC. Since I didn't write here I'll just increment my days by one though.
