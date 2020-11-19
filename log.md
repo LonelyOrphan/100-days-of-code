@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Note:
+### Note:
 Create a positive word generator using words from the following site:
 
 https://thegoalchaser.com/positive-words/
