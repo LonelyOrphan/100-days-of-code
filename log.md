@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Note:
+Create a positive word generator using words from the following site:
+
+https://thegoalchaser.com/positive-words/
+
 ### Day 24 - 19th November 2020 ~ Focused, Benign
 
 Added in a hack yesterday to stopwatch to stop the 0's appearing. Found out today that the stopwatch is too slow. This post https://www.experts-exchange.com/questions/27034571/Javscript-stopwatch-slow.html suggests that getting the document with the timed function calls will slow it down, and advises to just call it once upon page load. 
