@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25 - 20th November 2020 ~ Cold, Slightly overloaded
+
+Learning about recursion - what is important is precedence and call stack. Need to continue reading about call stack tomorrow.
+
+It turns out that my method of creating the stopwatch will not keep time perfectly. To do this it needs to be based on the actual time. I think it would be wise to leave this project at this point as creating it from the actual time would be akin to starting again. I'm satisfied with the way I solved it already and I learned a lot in the process.
+
 ### Note:
 Create a positive word generator using words from the following site:
 
