@@ -32,4 +32,6 @@ There are two different types of speech quotes. The ones used in programming are
 There's also a book for writing called The Elements of Style: https://en.wikipedia.org/wiki/The_Elements_of_Style
 
 
-```typeof();```
+```typeof();``` shows what type of data is in the parentheses
+
+Went back over declaring variables with var and did a small puzzle.
