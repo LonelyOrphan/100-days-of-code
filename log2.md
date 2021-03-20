@@ -1,10 +1,11 @@
 # 100 Days Of Code - Log 2
+Here is my second attempt at learning JS. I'm starting again with Angela Yu's video course on Udemy. Wish me happiness, progress and fulfilment in my endeavours.
+
 
 ### Day 2 - 20th March 2021 ~ Clear-headed, complaining stomach
 
 Didn't complete this yesterday as I had a bad stomach and felt like shit. Today I continued with the web dev course and went back over prompts, alerts, the length property, slice and toUpperCase() and toLowerCase(). Next lesson is arithmetic so thought this would be a good place to leave it.
 
-Here is my second attempt at learning JS. I'm starting again with Angela Yu's video course on Udemy. Wish me happiness, progress and fulfilment in my endeavours.
 
 ### Day 1 - 18th March 2021 ~ Warm, enthused
 
@@ -36,6 +37,10 @@ There are two different types of speech quotes. The ones used in programming are
 There's also a book for writing called The Elements of Style: https://en.wikipedia.org/wiki/The_Elements_of_Style
 
 
+
+
 ```typeof();``` shows what type of data is in the parentheses
 
 Went back over declaring variables with var and did a small puzzle.
+
+
